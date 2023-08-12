@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h2pqax6nr53m77ge?svg=true)](https://ci.appveyor.com/project/Feruno/java2-3-patterns)
